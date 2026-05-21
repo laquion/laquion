@@ -20,5 +20,5 @@ Cloud & Security Engineering learner focused on identity, systems automation, an
 - Slack Admin (learning)
 
 ## Connect
-- Portfolio: laquion-portfolio.vercel.app
+- Portfolio: https://www.laquion-portfolio.vercel.app
 - LinkedIn: https://www.linkedin.com/in/laquion
