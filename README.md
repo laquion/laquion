@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm La'Quion 👋
 
-<!--
-**laquion/laquion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & Security Engineering learner focused on identity, systems automation, and secure infrastructure.
 
-Here are some ideas to get you started:
+## Current focus
+- Cloud administration & security baselines
+- Identity & access management
+- Google Workspace, Slack, Okta admin (learning)
+- Linux systems & automation
+- AI-assisted security workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- laquion-portfolio — portfolio focused on cloud, systems, identity, and security
+- cloud-security-labs — private hands-on labs and notes
+
+## Certifications / Learning
+- Network+, Security+
+- Okta Admin (learning)
+- Google Workspace Admin (learning)
+- Slack Admin (learning)
+
+## Connect
+- Portfolio: https://github.com/laquion/laquion-portfolio
+- LinkedIn: https://www.linkedin.com/in/laquion
