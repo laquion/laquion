@@ -15,6 +15,7 @@ Cloud & Security Engineering learner focused on identity, systems automation, an
 
 ## Certifications / Learning
 - Network+, Security+
+- GCP, Azure (learning)
 - Okta Admin (learning)
 - Google Workspace Admin (learning)
 - Slack Admin (learning)
