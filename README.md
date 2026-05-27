@@ -5,7 +5,7 @@ Cloud & Security Engineering learner focused on identity, systems automation, an
 ## Current focus
 - Cloud administration & security baselines
 - Identity & access management
-- Google Workspace, Slack, Okta admin (learning)
+- Google Workspace, Slack, Okta admin
 - Linux systems & automation
 - AI-assisted security workflows
 
